@@ -1,2 +1,5 @@
 # hello-world-
-Misc Resources and Ideas
+
+Hello there, 
+
+I am a beginner! 
